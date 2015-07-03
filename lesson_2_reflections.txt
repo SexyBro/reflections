@@ -1,0 +1,1 @@
+When you initialize a repository, you tell github to back it up.

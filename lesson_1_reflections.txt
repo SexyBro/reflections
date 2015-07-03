@@ -1,0 +1,15 @@
+This was a very interesting way to see what was different between the two files.
+
+It's efficient if a programmer can go back and look at how a program used to handle a problem in the past because that will usually tell the programmer how to pinpoint the problem of a troubled problem they are currently working with.
+
+The good thing about a manual commit is that you will always be committing after a certain change has been made, and you can specify what that change was.
+The bad part about this is that someone might forget to commit for a while or might not know when it's right to commit.
+
+Git allows multiple files to be saved in one commit because all the files could be dependent upon each other.
+Google Docs treats each file separately because it doesn't have repositories.
+
+Git log can tell you the commit ids and git diff can tell you the differences between two commits.
+
+If my changes do break the program, then I still have a working backup copy saved so that I can go back and use the program again the way it was before.
+
+I want to use git to store copies of my Android Apps.
