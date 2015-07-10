@@ -1,3 +1,5 @@
 When you initialize a repository, you tell github to back it up.
 
-The staging area is different because it serves as a resting area before 
+The staging area is different because it serves as a resting area before commiting changes.
+
+You can check all your changes to your files in the staging area to make sure that they all coincide with the message in that particular commit.
