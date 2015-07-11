@@ -5,3 +5,7 @@ The staging area is different because it serves as a resting area before commiti
 You can check all your changes to your files in the staging area to make sure that they all coincide with the message in that particular commit.
 
 It would help to save different versions of the program by operating system.
+
+The diagrams help me realize how the different commits are connected.
+
+The branches merge together to form the master branch. It is represented in the diagram as two branches that meet.
