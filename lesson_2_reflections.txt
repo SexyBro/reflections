@@ -9,3 +9,5 @@ It would help to save different versions of the program by operating system.
 The diagrams help me realize how the different commits are connected.
 
 The branches merge together to form the master branch. It is represented in the diagram as two branches that meet.
+
+It gets annoying that git can't take of merging for me, but it's better because it won't accidentally remove the code I want to keep and keep the code I want to remove.
