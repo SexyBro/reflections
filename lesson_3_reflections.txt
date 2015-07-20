@@ -3,3 +3,5 @@ You might be using a computer other than your own and not want to save any work 
 You use forks to edit your own copy of a repository that you don't have access to, you clone when you want to create a copy of a repository you do have access to, and you branch when you want to try out a new feature without losing the original version.
 
 It gives you the ability to work offline.
+
+I could collaborate over the cloud and people could edit the code in real time. This would be better for productivity but harder because it would require everyone to be available at the same time for a meeting.
