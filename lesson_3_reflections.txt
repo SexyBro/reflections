@@ -5,3 +5,5 @@ You use forks to edit your own copy of a repository that you don't have access t
 It gives you the ability to work offline.
 
 I could collaborate over the cloud and people could edit the code in real time. This would be better for productivity but harder because it would require everyone to be available at the same time for a meeting.
+
+You would want to make changes in a branch other than master when you are trying out a new feature that you aren't sure you'll keep. That preserves the master version in the event that you or your users don't like the new feature.
